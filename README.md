@@ -13,4 +13,6 @@ Los blogs son la mejor forma de compartir información y tus ideas. Mucho mas qu
 
 INCLUYE TODO LO BUENO EN TU MENTE
 
+DISPONIBLE
+
 Los README.md pueden estar en todas las carpetas, pero el más importante es el que se encuentra en la raíz. Este documento ayuda a que los colaboradores sepan información relevante del proyecto, módulo o sección. Puedes crear cualquier archivo con la extensión .md pero solo los README.md los mostrará por defecto GitHub.
